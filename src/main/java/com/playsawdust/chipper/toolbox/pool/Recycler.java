@@ -35,7 +35,7 @@ import com.google.common.collect.Lists;
  * }
  * // the color and rect are recycled automatically
  * </pre>
- * @see {@link com.google.common.io.Closer Closer}, the Closeable equivalent from Guava that
+ * @see com.google.common.io.Closer Closer, the Closeable equivalent from Guava that
  * 		inspired this class
  */
 public class Recycler implements PooledObject {
